@@ -1,0 +1,259 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Login functionality",
+        "description": "",
+        "id": "testmeapp-application;login-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 22692123600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open the TestMeApp Application",
+            "match": {
+              "location": "testme.open_the_TestMeApp_Application()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 192521400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter username in username field \"lalitha\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"lalitha\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_username_in_username_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 141243900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter password in password field \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password123\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_password_in_password_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 6143344200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on login button",
+            "match": {
+              "location": "testme.click_on_login_button()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 214429600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Check you are in home page",
+            "match": {
+              "location": "testme.check_you_are_in_home_page()"
+            },
+            "keyword": "* "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Login functionality",
+        "description": "",
+        "id": "testmeapp-application;login-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 18307631300,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open the TestMeApp Application",
+            "match": {
+              "location": "testme.open_the_TestMeApp_Application()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 206007300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter username in username field \"lalitha\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"lalitha\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_username_in_username_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 285219700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter password in password field \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password123\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_password_in_password_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 6321096100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on login button",
+            "match": {
+              "location": "testme.click_on_login_button()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 192823000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Check you are in home page",
+            "match": {
+              "location": "testme.check_you_are_in_home_page()"
+            },
+            "keyword": "* "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Login functionality",
+        "description": "",
+        "id": "testmeapp-application;login-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19035549300,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open the TestMeApp Application",
+            "match": {
+              "location": "testme.open_the_TestMeApp_Application()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 405789500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter username in username field \"lalitha\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"lalitha\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_username_in_username_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 297171700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter password in password field \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password123\"",
+                  "offset": 33
+                }
+              ],
+              "location": "testme.enter_password_in_password_field(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 19039282400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on login button",
+            "match": {
+              "location": "testme.click_on_login_button()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 241736200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Check you are in home page",
+            "match": {
+              "location": "testme.check_you_are_in_home_page()"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "TestMeApp Application",
+    "description": "",
+    "id": "testmeapp-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/feature/login.feature",
+    "tags": []
+  }
+]
